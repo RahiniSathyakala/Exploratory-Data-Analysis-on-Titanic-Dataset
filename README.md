@@ -73,11 +73,11 @@ The exploratory analysis highlights that gender and passenger class were the mos
 ---
 
 ## Output
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/fece7ff0-9887-4a29-8a70-ead0f428be60" />
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/86ea913b-e125-4b6b-af6e-1749d647d53d" />
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/a6e7e7d7-46d7-4864-8096-1b0767a335f2" />
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/80bd160b-e3dc-4a47-9f6f-95c5006da72a" />
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2e4ae2e6-5c83-460d-b715-4b1d7ce6118d" />
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/149ffe36-8a4d-4623-86a3-df7601d490ab" />
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/de6d3fe8-b63a-4330-9837-f1302d438844" />
-<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/5ad3de9e-42aa-4e84-9dc3-e4b55fe5eb4a" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/18d74e65-72ed-49e8-9768-2ba7231e7786" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/9a8ba9fb-0940-4868-b212-79e46ddb15f1" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/9ea6ca9f-08c5-45b6-b155-73d2020a9396" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/b684167a-5b79-44b4-916d-cb8ff8043267" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/276b006c-002b-44da-9d29-415e1bf30436" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/8d36d556-0597-4024-ae7f-a3eea3fe9165" />
+<img width="1111" height="1020" alt="Image" src="https://github.com/user-attachments/assets/24d8f28d-07b9-4eea-bef0-18ec1d827eba" />
+<img width="1090" height="1020" alt="Image" src="https://github.com/user-attachments/assets/be9e8b0e-b306-424c-8826-0066f7059d7a" />
